@@ -1,2 +1,3 @@
 venv
-DS.Store
+.DS-Store
+.mypy_cache
